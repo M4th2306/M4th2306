@@ -14,7 +14,7 @@
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Apaixonado por solução de problemas e automação de rotinas diárias.\
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Pesquisando sobre analise de dados, engenharia de dados e cloud computing .\
 &nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Programando desde 2022.\
-&nbsp;&nbsp;&nbsp;⏰ &nbsp;Por hora Maior conhecimento em Python🐍.\
+&nbsp;&nbsp;&nbsp;⏰ &nbsp;Por hora Maior conhecimento em Python🐍.
 
 
 
