@@ -77,5 +77,5 @@
 
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=M4th2306&style=plastic&label=Views"><img>
-<img src="https://badges.pufler.dev/visits/M4th2306/M4th2306?color=black&logo=github" />
+<img src="https://badges.pufler.dev/visits/M4th2306?color=black&logo=github" />
 </p>
