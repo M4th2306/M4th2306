@@ -8,7 +8,7 @@
 
 ### :space_invader: &nbsp;Sobre mim
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Atualmente trabalhando como Analista de Suporte Especializado Junior na [TIVIT](https://tivit.com) na área de infra de backup☁️💾\
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Trabalhando como Analista de Suporte Especializado Junior na [TIVIT](https://tivit.com) na área de infra de backup☁️💾\
 &nbsp;&nbsp;&nbsp;🎓 &nbsp;Estudando Estudando Análise e Desenvolvimento de Sistemas💻 na Faculdade [Impacta](https://www.impacta.edu.br).\
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Amor pela tecnologia e inovação.\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Apaixonado por solução de problemas e automação de rotinas diárias.\
