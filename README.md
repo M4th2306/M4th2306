@@ -49,7 +49,7 @@
 </details>
 
 <details>
-  <summary><b>:brain: &nbsp;Alwways looking for knowledge</b></summary>
+  <summary><b>:brain: &nbsp;Always looking for knowledge</b></summary>
   <br/>
 
 ![AWS](https://img.shields.io/badge/AMAZON%20AWS-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white)&nbsp;
