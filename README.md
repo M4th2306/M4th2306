@@ -8,13 +8,13 @@
 
 ## :space_invader: &nbsp;About me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Working as a Junior Specialized Support Analyst at [TIVIT](https://tivit.com) in the backup infrastructure area☁️💾\
-&nbsp;&nbsp;&nbsp;🎓 &nbsp;Studying Systems Analysis and Development💻 at [Impacta](https://www.impacta.edu.br).\
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for technology and innovation.\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate about problem solving and automating daily routines.\
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Researching data analysis, data engineering and cloud computing.\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Programing since 2022.\
-&nbsp;&nbsp;&nbsp;⏰ &nbsp;For now, a greater knowledge in Python🐍.
+- &nbsp;&nbsp;&nbsp;:technologist: &nbsp;Working as a Junior Specialized Support Analyst at [TIVIT](https://tivit.com) in the backup infrastructure area☁️💾\
+- &nbsp;&nbsp;&nbsp;🎓 &nbsp;Studying Systems Analysis and Development💻 at [Impacta](https://www.impacta.edu.br).\
+- &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for technology and innovation.\
+- &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate about problem solving and automating daily routines.\
+- &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Researching data analysis, data engineering and cloud computing.\
+- &nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Programing since 2022.\
+- &nbsp;&nbsp;&nbsp;⏰ &nbsp;For now, a greater knowledge in Python🐍.
 
 
 
