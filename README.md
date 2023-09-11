@@ -5,7 +5,7 @@
  <tr><td><a href="README_pt.md"><img src="images/br-flag.png" height="13"> Português</a></td></tr>
 </table>
 <br>
-
+<hr/>
 ## :space_invader: &nbsp;About me
 
 - &nbsp;&nbsp;&nbsp;:technologist: &nbsp;Working as a Junior Specialized Support Analyst at [TIVIT](https://tivit.com) in the backup infrastructure area☁️💾
