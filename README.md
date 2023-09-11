@@ -6,6 +6,7 @@
 </table>
 <br>
 <hr/>
+
 ## :space_invader: &nbsp;About me
 
 - &nbsp;&nbsp;&nbsp;:technologist: &nbsp;Working as a Junior Specialized Support Analyst at [TIVIT](https://tivit.com) in the backup infrastructure area☁️💾
